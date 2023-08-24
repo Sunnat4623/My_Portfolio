@@ -1,0 +1,51 @@
+.main-right-image{
+    height: 500px;
+    width: 400px;
+    margin: 0 auto;
+}
+.header-main{
+    background: url(../images/main-header-bg.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clear-fix{
+    clear: both;
+}
+.main-left{
+    padding-top: 150px;
+}
+.product-items>img{
+    box-sizing: border-box;
+}
+.product-image{
+    border-radius: 10px;
+}
+.carousel-image{
+    width: 300px;
+    height: 300px;
+}
+.carousel-slider{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: url(../images/33333.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-slider:hover{
+    
+    
+    border: 1px solid green;
+    box-shadow: 1px 1px green ;
+    /* background-size: cover; */
+    
+}
+.partner-main{
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.carousel-item  img{
+    border-radius: px;
+}
